@@ -1,5 +1,22 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+#note
+
+next.js holo react.js ar akta framework
+Client side rendering
+Server-side rendering
+React server component
+
+
+#installation process
+
+npx create-next-app@latest
+
+
+#app
+layout: structure
+page: content
 ## Getting Started
 
 First, run the development server:
